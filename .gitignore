@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+transcripts/*
+!transcripts/.gitkeep
+summaries/*
+!summaries/.gitkeep
+digests/*
+!digests/.gitkeep
+server.pid
+server.log
+*.srt
